@@ -18,8 +18,11 @@ h1 {
 }
 
 .card-img-top {
-  background-size: cover;
+background-size: cover;
+width: 208px;
+height: 150px;
 }
+
 
 .nav-link {
   color: white;
