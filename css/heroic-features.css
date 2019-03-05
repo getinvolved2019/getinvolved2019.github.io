@@ -11,6 +11,7 @@ header {
   background-image: url(https://www.wwf.org.uk/sites/default/files/styles/max_2600x2600/public/2018-10/Original_WW287909%20%281%29.jpg);
   background-position:center center;
   background-size: cover;
+  color: white;
 }
 
 h1 {
@@ -32,3 +33,11 @@ height: 150px;
  /* Couleur de fond de la barre de navigation */
  background-color: #F3F8F8;
  border-color: #E9E7E7
+}
+
+ .card-text {
+  font-size: 12px;
+  text-justify: auto;
+ }
+
+ 
