@@ -20,8 +20,8 @@ h1 {
 
 .card-img-top {
 background-size: cover;
-width: 208px;
 height: 150px;
+width: auto;
 }
 
 
@@ -39,5 +39,3 @@ height: 150px;
   font-size: 12px;
   text-justify: auto;
  }
-
- 
